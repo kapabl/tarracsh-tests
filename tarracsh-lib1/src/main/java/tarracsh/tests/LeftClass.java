@@ -19,6 +19,10 @@ public class LeftClass  {
         System.out.println("m2");
     }
 
+    private void m3(String arg1) {
+        System.out.println("m3");
+    }
+
     @Deprecated
     public int field1;
 
